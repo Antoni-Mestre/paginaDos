@@ -26,15 +26,6 @@
   margin: -25px auto 60px;
 }
 
-.u-body {
-   min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
-
-.footer {
-  margin-top: auto;
- }
 
 
 @media (max-width: 767px) {
